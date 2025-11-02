@@ -1,0 +1,8 @@
+{
+  "name": "Plant Disease Identifier",
+  "description": "An app that uses Gemini to analyze uploaded photos of plants, identify potential diseases, and provide detailed care instructions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
